@@ -499,19 +499,6 @@ footer{
         display: none;
     }
 
-    
-    .card2-1{
-        background-image: url(../images/mobile-image-hero-1.jpg);
-    }
-
-    .card2-2{
-        background-image: url(../images/mobile-image-hero-2.jpg);
-    }
-
-    .card2-3{
-        background-image: url(../images/mobile-image-hero-3.jpg);
-    }
-
     .header-right{
         width: 100%;
         height: max-content;
